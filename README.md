@@ -7,7 +7,7 @@ A simple headless e-commerce platform template built with SvelteKit and Drizzle 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone git@github.com:ISmillex/simple-headless-e-commerce-platform-template.git
 ```
 
 2. Install dependencies:
